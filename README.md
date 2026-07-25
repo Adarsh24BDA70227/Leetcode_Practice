@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1002-find-common-characters](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/1002-find-common-characters) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/1002-find-common-characters) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
