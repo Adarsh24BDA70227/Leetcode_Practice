@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [1002-find-common-characters](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/1002-find-common-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/1002-find-common-characters) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
