@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [1002-find-common-characters](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/1002-find-common-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
