@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
