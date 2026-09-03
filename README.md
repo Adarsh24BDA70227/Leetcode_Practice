@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [1002-find-common-characters](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/1002-find-common-characters) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -51,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Union-Find
@@ -73,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
