@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
