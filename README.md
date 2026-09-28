@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
