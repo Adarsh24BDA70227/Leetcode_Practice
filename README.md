@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0035-search-insert-position) |
 ## Stack
 |  |
