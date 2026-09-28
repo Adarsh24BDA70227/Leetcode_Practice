@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
 |  |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Adarsh24BDA70227/Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
